@@ -1,0 +1,19 @@
+{
+  "latest_version": "0.12",
+  "username": "n1n3",
+  "version_code": 125,
+  "update_title": "New Update Available!",
+  "changelog": [
+    "Fixed Installation Errors",
+    "Added more Toggles",
+    "Fixed bugs in login screen",
+    "Optimized network usage for better speed"
+  ],
+  "update_required": false,
+  "download_url": "https://youtube.com/@n1n3network?si=lYdgZLwEoGi2Lut_",
+  "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
+  "getsecret_url": "https://pastebin.com/raw/PY4WqPDq",
+  "release_date": "2025-11-28",
+  "size": "128MB",
+  "developer_message": "Update now to enjoy smoother performance and stability improvements!"
+}

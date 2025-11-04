@@ -1,0 +1,19 @@
+{
+  "latest_version": "1.154.1",
+  "username": "n1n3",
+  "version_code": 181,
+  "update_title": "New Update Available!",
+  "changelog": [
+    "Fixed Aim Scope and Player Speed",
+    "Added fast reload toggle",
+    "Fixed bugs in login screen",
+    "Optimized network usage for better speed"
+  ],
+  "update_required": false,
+  "download_url": "https://youtube.com/@n1n3network?si=bMdp-MgaYGuNe2W1",
+  "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
+  "getsecret_url": "https://pastebin.com/raw/PY4WqPDq",
+  "release_date": "2025-11-04",
+  "size": "176MB",
+  "developer_message": "Update now to enjoy smoother performance and stability improvements!"
+}
