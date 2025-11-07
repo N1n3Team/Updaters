@@ -1,4 +1,5 @@
 # Updaters
 Mod menu updaters
-gft. 
+gft.
+
 Credits: @poisonmods
